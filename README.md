@@ -27,5 +27,20 @@ This project demonstrates Docker maintenance automation and Python scripting ski
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ⚙️ Prerequisites
+
+- Docker installed and running
+- Python 3.x
+- Linux OS (recommended)
+
+---
+
+## ▶️ How to Run
+
+```bash
+python main2.py
+
 
